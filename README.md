@@ -2,7 +2,7 @@
 <ul type="disc">
     <li>Bu proje, <b>ASP.NET Core WEB API 7.0</b> ile geliştirilmiş olup, gerçek zamanlı mesajlaşma uygulaması oluşturmayı amaçlamaktadır.</li>
     <li>Code First yaklaşımı kullanılarak veri tabanı oluşturulmuş ve <b>SignalR</b> kütüphanesi entegre edilmiştir.</li>
-    <li><b>Program.cs ' de uygun Cors ayarlamasını yapıp ayağa kaldırdıktan sonra Angular projesin' den API' ye istek atabilirsiniz. </b></li>
+    <li><b>Program.cs' de uygun Cors ayarlamasını yapıp ayağa kaldırdıktan sonra Angular projesinden API' ye istek atabilirsiniz. </b></li>
     <li><a href="https://github.com/GutsSword/ChatAppClient"> Angular Uygulamasına Gitmek için Tıklayın.</a></li>
   </ul>
 
